@@ -1,0 +1,17 @@
+{
+  "name": "audio2text-16.6.7",
+  "version": "1.0.0",
+  "description": "upload audio file to server, and translate that audio to text",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.30.0",
+    "nodemon": "^1.9.2"
+  }
+}
